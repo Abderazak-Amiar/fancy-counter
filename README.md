@@ -1,0 +1,1 @@
+This is a react project for beginners where you will learn some fundamental react principals like : components management, props drilling, states management using useState hook, side effect management using useEffect hook and EventListener.
